@@ -3,6 +3,7 @@
 necessárias já estão desenvolvidas. As informações necessárias são: 
 
 **Detalhamento**
+
 O cadastro de candidatos para a aliança deve conter os seguintes campos com preenchimento
 obrigatório:
 
